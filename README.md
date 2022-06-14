@@ -1,6 +1,6 @@
 ## 个人技能
 
-擅长服务端开发，熟练使用PHP、Golang、JavaScript、Linux、MySQL、Redis、RabbitMQ、ELK等技术栈。
+擅长服务端开发，熟练使用PHP、Golang、JavaScript、Linux、MySQL、Redis、RabbitMQ、ELK和K8S等技术栈。
 
 ## 个人站点
 
