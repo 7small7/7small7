@@ -1,16 +1,13 @@
-### Hi there 👋
+## 个人技能
 
-<!--
-**7small7/7small7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+擅长服务端开发，熟练使用PHP、Golang、JavaScript、Linux、MySQL、Redis、RabbitMQ、ELK等技术栈。
 
-Here are some ideas to get you started:
+## 个人站点
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[个人博客](https://bruce_qiq.gitee.io/mianshi/#/)
+
+## 个人作品
+
+![程序员面试题大全](http://qiniucloud.qqdeveloper.com/202205130422445.jpg)
+![](http://qiniucloud.qqdeveloper.com/202205130420812.jpg)
+
